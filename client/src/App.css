@@ -1,0 +1,9 @@
+.app-container {
+  width: 50%;
+  margin: 0 auto;
+}
+.app-bottom-container {
+  display: flex;
+  justify-content: space-between;
+  /* column-gap: 2rem; */
+}
